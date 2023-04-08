@@ -3,7 +3,7 @@
 Siga las instrucciones para su instalación
 
 ### Contenido
-´´´.sh
+```
 .
 ├── datos
 │   ├── processed
@@ -17,4 +17,4 @@ Siga las instrucciones para su instalación
 ├── README.md
 ├── references
 └── reports
-´´´
+```
